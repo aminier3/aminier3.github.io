@@ -1,0 +1,88 @@
+.navbar{
+   font-family:Parkinsans;
+}
+#recipe-page{
+    background-color:#aec6cf;
+    font-family:sans-serif;
+    border:50px solid black
+ }
+ #recipe-title{
+    background-color:hsl(240, 100%, 25%);
+    text-align:center;
+    font-size:30px;
+ }
+ #title2{
+    background-color:white;
+    width:135px;
+    height:45px;
+    font-size:25px;
+    margin:30px;
+ }
+ #description{
+    background-color:white;
+    margin:40px
+ }
+ #ingredients{
+    background-color:white;
+    width:350px;
+    height:300px;
+    margin:40px;
+ }
+ #directions{
+    background-color:white;
+    width:400px;
+    height:450px;
+    margin:40px;
+ }
+ #recipe-image1{
+    position:absolute;
+    top:400px;
+    left:450px;
+    border-radius:50%;
+ }
+ #recipe-video{
+    position:absolute;
+    top:600px;
+    left:700px;
+ }
+ #recipe-image2{
+    position:absolute;
+    top:485px;
+    left:763px;
+    border-radius:50%;
+ }
+ #recipe-image3{
+    position:absolute;
+    top:400px;
+    left:1005px;
+    border-radius:50%;
+ }
+ #tips{
+    background-color:white;
+    margin:40px;
+    position:absolute;
+    top:1100px;
+    left:600px;
+    width:650px;
+    height:200px;
+ }
+ .align{
+    text-align:center
+ }
+ .box{
+    border:2px solid black;
+    height:40px;
+ }
+ .outline1{
+    text-align:center;
+ }
+ .outline2{
+    text-align:center;
+ }
+ #recipe-image4{
+        position:absolute;
+        top:1200px;
+        left:350px;
+ }
+ 
+  
